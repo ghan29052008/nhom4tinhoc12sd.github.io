@@ -8,7 +8,7 @@
 <div class="container">
     <h2>MEMBERS</h2>
     <div class="member">
-        <a href="new 1.html" target="_blank">Phan Nhật Tân</a> - 12SĐ
+        <a href="https://youtu.be/62bN43zK8eM?si=1x6FdZW6lmO9cq9U" target="_blank">Phan Nhật Tân</a> - 12SĐ
     </div>
     <div class="member">
         <a href="LDK2.html" target="_blank">Phạm Thái Gia Hân</a> - 12SĐ
