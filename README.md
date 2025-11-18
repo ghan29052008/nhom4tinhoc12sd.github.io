@@ -158,17 +158,3 @@
      <div class="member">
         <a href="https://www.canva.com/design/DAGiuKmB8k0/oBXUHZJfP0ElPxYGendmcg/edit?utm_content=DAGiuKmB8k0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Bài 22</a>
     </div>
-</div>    
-<div class="container form-container">
-    <h2>FORM</h2>
-    <form>
-        <input type="text"placeholder="Họ và tên" required>
-        <input type="date" placeholder="Ngày sinh" required>
-        <input type="email" placeholder="Email" required>
-        <textarea placeholder="Sở thích" rows="3"></textarea>
-        <textarea placeholder="Hoạt động gần đây" rows="3"></textarea>
-        <button type="submit">Submit</button>
-    </form>
-</div>
-</body>
-</html>
