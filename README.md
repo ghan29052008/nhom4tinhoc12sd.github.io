@@ -97,22 +97,22 @@ Tên thành viên:
 <div class="container">
     <h2>MEMBERS</h2>
     <div class="member">
-        <a href="new 1.html" target="_blank">Nguyễn Văn Đức</a> - 12T
+        <a href="new 1.html" target="_blank">Phan Nhật Tân</a> - 12SĐ
     </div>
     <div class="member">
-        <a href="LDK2.html" target="_blank">Lê Duy Khang</a> - 12T
+        <a href="LDK2.html" target="_blank">Phạm Thái Gia Hân</a> - 12SĐ
     </div>
     <div class="member">
-        <a href="VTMQ2.html" target="_blank">Võ Thị Mai Quyền</a> - 12T
+        <a href="VTMQ2.html" target="_blank">Trần Nguyễn Minh Quân</a> - 12SĐ
     </div>
     <div class="member">
-        <a href="HQTPVP.html" target="_blank">Huỳnh Quốc Thái</a> - 12T 
+        <a href="HQTPVP.html" target="_blank">Trần Hoàng Nhật</a> - 12SĐ
     </div>
     <div class="member">
-        <a href="profile" target="_blank">Lê Anh Thư</a> - 12T 
+        <a href="profile" target="_blank">Đỗ Hoàng Sơn</a> - 12SĐ
     </div>
     <div class="member">
-        <a href="VDK.html" target="_blank">Võ Đăng Khoa</a> - 12T 
+        <a href="VDK.html" target="_blank">Cao Thị Hồng Nhung</a> - 12SĐ
     </div>
 </div>   
  <div class="container">
