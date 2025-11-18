@@ -1,7 +1,4 @@
-Nhóm 4 tin 12SĐ
-<!DOCTYPE html>
-<html>
-</head>
+
 <body>
 
 <header>
